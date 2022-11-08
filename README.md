@@ -11,9 +11,9 @@
 </div>
 
 <div>
-<h3>:hammer_and_wrench: Tecnologías</h3>
+<h2>:hammer_and_wrench: Tecnologías</h2>
 <p>HTML | CSS | Javascript | ReactJs | Redux | NodeJs | Express | Socket.io | Nodemailer | JWT | Passport | Postgres | Sequelize | GIT | Scrum
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -30,9 +30,39 @@
 </div>
 
 <div>
-<h3>Mis trabajos :point_down:</h3>
-<h4>E-Wines</h4>
+<h2>Mis trabajos :point_down:</h2>
+<h3>E-Wines</h3>
 <p>E-Commerce cuyo objetivo es la conexión entre vinotecas y pequeñas bodegas con futuros clientes</p>
-<h4>Henry Dogs</h4>
-<p>Single</p>
+<br>
+<img src="./E-Wines1.png" alt="e-wines1" width="400"/>
+<img src="./E-Wines2.png" alt="e-wines2" width="400"/>
+<img src="./E-Wines3.png" alt="e-wines3" width="400"/>
+<img src="./E-Wines4.png" alt="e-wines4" width="400"/>
+<br>
+<p>HTML | CSS | Javascript | ReactJs | Redux | NodeJs | Express | Postgres | Sequelize | Git | Trello | Scrum</p>
+ 
+<p>:heavy_check_mark: Deploy: <a href="https://e-wine-ashen.vercel.app/" target="_blank">E-Wines App</a></p>
+<p>:heavy_check_mark: <a href="https://github.com/icunial/E-Wines-Ecommerce" target="_blank">E-Wines App Repositorio</a></p>
+<br>
+<h3>Henry Dogs</h3>
+<p>Single-page application enfocada en las razas de perros de todo el mundo.</p>
+<br>
+<img src="./Dogs1.png" alt="dogs1" width="400"/>
+<img src="./Dogs2.png" alt="dogs2" width="400"/>
+<img src="./Dogs3.png" alt="dogs3" width="400"/>
+<img src="./Dogs4.png" alt="dogs4" width="400"/>
+<br>
+<p>Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL</p>
+
+<p>:heavy_check_mark: Deploy: <a href="https://pi-cunial.herokuapp.com/" target="_blank">Henry Dogs App</a></p>
+<p>:heavy_check_mark: <a href="https://github.com/icunial/PI-Henry" target="_blank">Henry Dogs Repositorio</a></p>
+
+</div>
+
+<div>
+<h2>:mailbox: Contactame</h2>
+<p>Email: igsecu@hotmail.com</p>
+<a href="https://www.linkedin.com/in/ignacio-cunial/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 </div>
