@@ -25,7 +25,7 @@
   <img style="width:30px;"src="./icons/jwt.png">
   <img style="width:30px;"src="./icons/socket.png">
   <img style="width:30px;height:30px;"src="./icons/nodemailer.png">
-  <img style="width:30px;"src="./icons/sendgrid.png">
+  <img style="width:30px;height:30px;"src="./icons/sendgrid.png">
 
 </div>
 
