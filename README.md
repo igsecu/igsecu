@@ -42,6 +42,21 @@
 
 ### My last projects
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Full Blog Application API</h3>
+<div align="center">
+<img src="./images/blog.png" width="400" alt="Full Blog Application">
+<p>
+<a href="https://github.com/igsecu/blogapp_backend" target="_blank">
+<img src="https://img.shields.io/badge/SOURCE CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>              
+</td>
+                                                    
+</table>
+
 ### If you want to sponsor one of my projects
 
 <a href='https://ko-fi.com/K3K2VB3RH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
