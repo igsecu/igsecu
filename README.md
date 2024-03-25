@@ -1,7 +1,7 @@
 <h2> Hi, I'm igsecu! 👋</h2>
 
 [![Instagram: igsecu.dev](https://img.shields.io/instagram/follow/igsecu.dev?style=social)](https://instagram.com/igsecu.dev)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: igsecu](https://img.shields.io/badge/-igsecu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ignacio-cunial/)](https://www.linkedin.com/in/ignacio-cunial/)
 [![GitHub igsecu](https://img.shields.io/github/followers/igsecu?label=follow&style=social)](https://github.com/igsecu)
 
 
