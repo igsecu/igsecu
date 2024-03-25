@@ -12,27 +12,27 @@
 <p style="font-weight:bold;">Technologies</p>
 
 <div style="display:flex; flex-direction:row; gap:8px;">
-  <img style="width:30px"src="./icons/js.png">
-  <img style="width:30px"src="./icons/nodejs.png">
-  <img style="width:30px"src="./icons/express.png">
-  <img style="width:30px"src="./icons/postgresql.png">
-  <img style="width:30px"src="./icons/sequelize.png">
-  <img style="width:30px"src="./icons/mongo.png">
-  <img style="width:30px"src="./icons/mongoose.png">
-  <img style="width:30px"src="./icons/cloudinary.png">
-  <img style="width:30px"src="./icons/passport.png">
-  <img style="width:30px"src="./icons/jwt.png">
-  <img style="width:30px"src="./icons/socket.png">
+  <img style="width:30px;"src="./icons/js.png">
+  <img style="width:30px;"src="./icons/nodejs.png">
+  <img style="width:30px; background-color:white;"src="./icons/express.png">
+  <img style="width:30px; background-color:white;"src="./icons/postgresql.png">
+  <img style="width:30px;"src="./icons/sequelize.png">
+  <img style="width:30px;"src="./icons/mongo.png">
+  <img style="width:30px;"src="./icons/mongoose.png">
+  <img style="width:30px;"src="./icons/cloudinary.png">
+  <img style="width:30px;"src="./icons/passport.png">
+  <img style="width:30px;"src="./icons/jwt.png">
+  <img style="width:30px;"src="./icons/socket.png">
 
 </div>
 
 <p style="font-weight:bold; margin-top:16px;">Immersing myself</p>
 
 <div style="display:flex; flex-direction:row; gap:8px;">
-  <img style="width:30px"src="./icons/typescript.png">
-  <img style="width:30px"src="./icons/redis.jpg">
-  <img style="width:30px"src="./icons/docker.png">
-  <img style="width:30px"src="./icons/aws.png">
+  <img style="width:30px;"src="./icons/typescript.png">
+  <img style="width:30px; height:30px;"src="./icons/redis.jpg">
+  <img style="width:30px;"src="./icons/docker.png">
+  <img style="width:30px;height:30px;"src="./icons/aws.png">
 </div>
 
 <p style="font-weight:bold;  margin-top:16px;">You can reach me</p>
