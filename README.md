@@ -23,7 +23,9 @@
   <img style="width:30px;"src="./icons/passport.png">
   <img style="width:30px;"src="./icons/jwt.png">
   <img style="width:30px;"src="./icons/socket.png">
-  <img style="width:30px;"src="./icons/paypal.png">
+  <img style="width:30px;"src="./icons/nodemailer.png">
+  <img style="width:30px;"src="./icons/sendgrid.png">
+
 </div>
 
 ### Immersing myself
