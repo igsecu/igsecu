@@ -44,5 +44,9 @@
 
 <div style="display:flex; flex-direction:row; height:30px; align-items:center;">
 <div style="font-weight:bold; margin-right:8px;">If you want to sponsor one of my projects </div>
-<img style="" src="./icons/ko-fi.png">
+<div style="height:30px;">
+<a href="https://www.ko-fi.com/igsecu">
+<img src="./icons/ko-fi.png">
+</a>
+</div>
 </div>
