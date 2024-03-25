@@ -15,7 +15,8 @@
   <img style="width:30px;"src="./icons/js.png">
   <img style="width:30px;"src="./icons/nodejs.jpg">
   <img style="width:30px;"src="./icons/express.png">
-  <img style="width:30px; "src="./icons/postgresql.png">
+  <img style="width:30px;"src="./icons/post
+  gresql.png">
   <img style="width:30px;"src="./icons/sequelize.png">
   <img style="width:30px;"src="./icons/mongo.png">
   <img style="width:30px;"src="./icons/mongoose.png">
@@ -23,7 +24,7 @@
   <img style="width:30px;"src="./icons/passport.png">
   <img style="width:30px;"src="./icons/jwt.png">
   <img style="width:30px;"src="./icons/socket.png">
-  <img style="width:30px;"src="./icons/nodemailer.png">
+  <img style="width:30px;height:30px;"src="./icons/nodemailer.png">
   <img style="width:30px;"src="./icons/sendgrid.png">
 
 </div>
