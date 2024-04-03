@@ -25,14 +25,13 @@
   <img style="width:30px;"src="./icons/socket.png">
   <img style="width:30px;height:30px;"src="./icons/nodemailer.png">
   <img style="width:30px;height:30px;"src="./icons/sendgrid.png">
-
+  <img style="width:30px; height:30px;"src="./icons/redis.jpg">
 </div>
 
 ### Immersing myself
 
 <div style="display:flex; flex-direction:row; gap:8px;">
   <img style="width:30px;"src="./icons/typescript.png">
-  <img style="width:30px; height:30px;"src="./icons/redis.jpg">
   <img style="width:30px;"src="./icons/docker.png">
   <img style="width:30px;height:30px;"src="./icons/aws.png">
 </div>
@@ -56,6 +55,17 @@
 </a>
 </p>              
 </td>
+<td width="50%">
+<h3 align="center">Newspaper Application API</h3>
+<div align="center">
+<img src="./images/newspaper.png" width="400" alt="Full Blog Application">
+<p>
+<a href="https://github.com/igsecu/newspaperapi" target="_blank">
+<img src="https://img.shields.io/badge/SOURCE CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>              
+</td>
+</tr>
                                                     
 </table>
 
