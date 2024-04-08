@@ -38,7 +38,6 @@
 
 ### You can reach me
 
-<a href="https://www.instagram.com/igsecu.dev"> <img style="width:30px" src="./icons/instagram.png"></a>
 <a href="https://www.linkedin.com/in/ignacio-cunial/"> <img style="width:30px" src="./icons/linkedin.png"></a>
 
 ### My last projects
@@ -68,7 +67,3 @@
 </tr>
                                                     
 </table>
-
-### If you want to sponsor one of my projects
-
-<a href='https://ko-fi.com/K3K2VB3RH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
