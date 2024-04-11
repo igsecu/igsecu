@@ -45,7 +45,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Full Blog Application API</h3>
+<h3 align="center">Blog REST API</h3>
 <div align="center">
 <img src="./images/blog.png" width="400" alt="Full Blog Application">
 <p>
@@ -55,7 +55,7 @@
 </p>              
 </td>
 <td width="50%">
-<h3 align="center">Newspaper Application API</h3>
+<h3 align="center">Newspaper REST API</h3>
 <div align="center">
 <img src="./images/newspaper.png" width="400" alt="Full Blog Application">
 <p>
