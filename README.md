@@ -3,16 +3,16 @@
 ### About me
 
 <ul>
-  <li>👨‍💻 Backend Developer - NodeJs / Javascript</li>
+  <li>👨‍💻 Fullstack Developer - PERN / MERN</li>
   <li>🎯 Looking for my first job</li>
-  <li>🤝 Sharing full applications APIs</li>
-  <li>🔜 Working on a Newspaper API with cron jobs and Paypal Integration</li>
 </ul>
 
 ### Technologies
 
 <div style="display:flex; flex-direction:row; gap:8px;">
   <img style="width:30px;"src="./icons/js.png">
+  <img style="width:30px;"src="./icons/react.png">
+  <img style="width:30px;"src="./icons/bootstrap.png">
   <img style="width:30px;"src="./icons/nodejs.jpg">
   <img style="width:30px;"src="./icons/express.png">
   <img style="width:30px;"src="./icons/postgresql.png">
