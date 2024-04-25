@@ -44,7 +44,17 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
+<h3 align="center">Dogs App - PI Henry</h3>
+<div align="center">
+<img src="./images/pidogs.png" width="400" alt="Full Blog Application">
+<p>
+<a href="https://github.com/igsecu/pidogs-henry" target="_blank">
+<img src="https://img.shields.io/badge/SOURCE CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>              
+</td>
+<td width="33%">
 <h3 align="center">Blog REST API</h3>
 <div align="center">
 <img src="./images/blog.png" width="400" alt="Full Blog Application">
@@ -54,7 +64,7 @@
 </a>
 </p>              
 </td>
-<td width="50%">
+<td width="33%">
 <h3 align="center">Newspaper REST API</h3>
 <div align="center">
 <img src="./images/newspaper.png" width="400" alt="Full Blog Application">
